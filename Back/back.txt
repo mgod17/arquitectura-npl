@@ -1,0 +1,15 @@
+Back-end (Flask):
+Para el desarrollo del back-end de mi aplicación, estoy utilizando Flask, un framework ligero de Python que me proporciona la flexibilidad necesaria para construir servicios web eficientes.
+
+Tecnología:
+
+Flask: Estoy utilizando Flask como el framework principal para el desarrollo del back-end. Su simplicidad y flexibilidad lo hacen ideal para mis necesidades.
+Base de Datos:
+
+AWS Database: Estoy configurando una base de datos en AWS para almacenar y gestionar la información de los usuarios. Puedo elegir entre servicios como Amazon RDS o DynamoDB, dependiendo de mis requisitos específicos.
+Integración con AWS AI Services:
+
+Conexión con Servicios de AWS: Estoy integrando servicios de AWS como SageMaker, Textract o Comprehend para realizar procesamiento de lenguaje natural en las consultas de los usuarios. Esto me permitirá proporcionar respuestas relevantes y útiles a los usuarios.
+Autenticación y Seguridad:
+
+Gestión de Usuarios: Estoy implementando un sistema de autenticación y gestión de usuarios para proteger la información sensible y controlar el acceso a la aplicación. Utilizaré bibliotecas como Flask-Login para garantizar la seguridad de la autenticación de usuarios.

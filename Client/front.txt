@@ -1,0 +1,13 @@
+Front-end (Next.js):
+Para la parte del front-end de mi aplicación, estoy optando por utilizar Next.js. Este framework basado en React ofrece una serie de ventajas que hacen que la construcción de aplicaciones web sea más eficiente y escalable.
+
+Tecnología:
+
+Next.js: Estoy utilizando Next.js como el framework principal para el desarrollo del front-end. Gracias a sus características como el renderizado del lado del servidor (SSR) y el enrutamiento dinámico, puedo crear una aplicación web robusta y bien estructurada.
+Diseño y Experiencia de Usuario:
+
+Interfaz de Usuario (UI): Estoy trabajando en el diseño de una interfaz de usuario atractiva y fácil de usar utilizando componentes de React y bibliotecas de estilos como Tailwind CSS. Quiero asegurarme de que la experiencia de usuario sea óptima en cualquier dispositivo.
+
+Chatbot: Estoy implementando un chatbot que permitirá a los usuarios realizar preguntas sobre documentos de capacitación. El chatbot ofrecerá respuestas relevantes y sugerencias mientras los usuarios interactúan con él.
+
+Comunicación con el Back-end: Estoy configurando la comunicación con el back-end de la aplicación a través de solicitudes HTTP. Esto me permitirá enviar y recibir datos de manera eficiente, incluidas las consultas de los usuarios al chatbot y las respuestas del servidor.
